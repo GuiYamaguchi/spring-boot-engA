@@ -16,7 +16,7 @@ public class AlunoModel {
     private String endereco;
     private String email;
 
-    public AlunoModel(Long id) {
+    public AlunoModel() {
     }
 
     public Long getId() {
